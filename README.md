@@ -80,7 +80,10 @@ Here are the simple steps to run the Laravel project based on the instructions:
     - Make sure you have Composer installed. Run the following command to install all the required dependencies:
 
         composer install
+
         npm install
+
+        npm run build
 
 4. Set Up the Environment File
 
